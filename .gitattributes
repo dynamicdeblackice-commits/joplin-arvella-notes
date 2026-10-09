@@ -1,0 +1,9 @@
+# Default behavior   
+# Exclude build artifacts
+# Project-specific overrides
+vendor/* linguist-vendored
+*.jpg binary
+*.htm linguist-vendored
+*.tsx linguist-detectable
+*.jpeg binary
+src/**/*.ts linguist-detectable

@@ -1,0 +1,10 @@
+yarn-error.log*
+.DS_Store
+dist/
+.cache/
+build/
+*.log
+.next/
+node_modules/
+.env.local
+dist/
